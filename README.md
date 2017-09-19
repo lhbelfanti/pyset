@@ -1,4 +1,4 @@
-Compiler to handle Set Theory own languaje.<br/>
+Compiler to handle my own set theory languaje.<br/>
 
 Languaje: Languaje Oriented to Set Theory of <b>Integer Numbers</b>.<br/>
 
