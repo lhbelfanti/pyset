@@ -1,10 +1,10 @@
-<h1>Set Theory languaje compiler</h1>
+<h1>Set Theory language compiler</h1>
 
 The main idea of the project is to show the development of a simple compiler, but with all the components used.<br/>
 
-Languaje: Languaje Oriented to Set Theory of <b>Integer Numbers</b>.<br/>
+Language: Language Oriented to Set Theory of <b>Integer Numbers</b>.<br/>
 
-<h2>Languaje definitions:</h2><br/>
+<h2>Language definitions:</h2><br/>
 
 - Variables: 
 	- Definition: 'var a' 		(only lowercase)
