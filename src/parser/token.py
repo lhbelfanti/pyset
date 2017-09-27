@@ -19,6 +19,6 @@ class Token:
 	COMMA = 14
 	ASIGNATION = 15
 
-	def __init__(self, token, sequence):
+	def __init__(self, token = None, sequence = None):
 		self.token = token
 		self.sequence = sequence
