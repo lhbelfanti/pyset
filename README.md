@@ -68,8 +68,7 @@ For example, in the `grammarTest` directory:
 ```
 $ java -Xmx500M -cp <path to ANTLR complete JAR> org.antlr.v4.Tool -Dlanguage=Python2 Grammar.g4
 $ python GrammarTest.py
-set({1,2,3,4}
-^D
+set({1,2,3,4})
 ```
 
 Following ANTLR guide, the "<path to ANTLR complete JAR>" should be:
@@ -80,7 +79,7 @@ Following ANTLR guide, the "<path to ANTLR complete JAR>" should be:
 
 In the example:
 ```
-set({1,2,3,4}
+set({1,2,3,4})
 ```
 
 is the grammar we want to validate.
