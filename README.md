@@ -1,16 +1,23 @@
-<h1>Set Theory language compiler</h1>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="media/set-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="media/set-light.png">
+    <img alt="Twitter News - Application that converts the tweets from the trending topics into news." src="media/set-dark.png">
+  </picture>
 
-The main idea of the project is to show the development of a simple compiler, but with all the components used.<br/>
+  <br />
 
-Language: Language Oriented to Set Theory of <b>Integer Numbers</b>.<br/>
+  ![GitHub repo size](https://img.shields.io/github/repo-size/lhbelfanti/set?style=for-the-badge)
+  ![License](https://img.shields.io/github/license/lhbelfanti/set?style=for-the-badge)
+</div>
 
-<h2>Language definitions:</h2><br/>
+## Language definitions
 
-- Variables: 
+### Variables 
 	- Definition: 'var a' 		(only lowercase)
 	- Assignation: 'var a = 4'	(assign 4 to a)
 
-- Operations:
+### Operations
 	- set()
 		- set({1,2,3,4})		(<b>Returns</b> a set with 4 elements)
 		- set([1,10])			(<b>Returns</b> a set with 10 elements, from 1 to 10)
@@ -39,7 +46,7 @@ Language: Language Oriented to Set Theory of <b>Integer Numbers</b>.<br/>
 		- del(a,5)				(Removes the element 5 from a)
 <br/>
 
-<h2>Installing ANTLR4 for python:</h2>
+## Installing ANTLR4 for python
 
 First, download the ANTLR complete JAR from [the ANTLR site][antlr].
 
@@ -54,7 +61,7 @@ pip install antlr4-python2-runtime
 Then, run ANTLR to compile the grammar and generate Python. Finally, run
 the Python main and enter some text.
 
-<h3>Input:</h3>
+### Input
 
 For example, in the `grammarTest` directory:
 
@@ -79,7 +86,7 @@ set({1,2,3,4}
 is the grammar we want to validate.
 
 
-<h3>Output:</h3>
+### Output
 
 If the grammar is OK the output is:
 ```
@@ -93,3 +100,8 @@ line ?:? token recognition error at: '?'
 Start
 Finish
 ```
+
+---
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
