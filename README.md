@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="media/set-dark.png">
     <source media="(prefers-color-scheme: light)" srcset="media/set-light.png">
-    <img alt="Twitter News - Application that converts the tweets from the trending topics into news." src="media/set-dark.png">
+    <img alt="Set - Compiler for a Set Theory Language." src="media/set-dark.png">
   </picture>
 
   <br />
