@@ -1,14 +1,14 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="media/set-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="media/set-light.png">
-    <img alt="Set - Compiler for a Set Theory Language." src="media/set-dark.png">
+    <source media="(prefers-color-scheme: dark)" srcset="media/pyset-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="media/pyset-light.png">
+    <img alt="Pyset - Compiler for a Set Theory language, written in Python." src="media/pyset-dark.png">
   </picture>
 
   <br />
 
-  ![GitHub repo size](https://img.shields.io/github/repo-size/lhbelfanti/set?style=for-the-badge)
-  ![License](https://img.shields.io/github/license/lhbelfanti/set?style=for-the-badge)
+  ![GitHub repo size](https://img.shields.io/github/repo-size/lhbelfanti/pyset?style=for-the-badge)
+  ![License](https://img.shields.io/github/license/lhbelfanti/pyset?style=for-the-badge)
 </div>
 
 ## Language definitions
