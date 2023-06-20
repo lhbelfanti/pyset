@@ -1,16 +1,14 @@
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="media/pyset-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="media/pyset-light.png">
-    <img alt="Pyset - Compiler for a Set Theory language, written in Python." src="media/pyset-dark.png">
-  </picture>
+<p align="center">
+  <img src="media/pyset.png" width="100" alt="Repository logo" />
+</p>
+<h3 align="center">Pyset</h3>
+<p align="center">Compiler for a Set Theory language, written in Python<p>
+<p align="center">
+    <img src="https://img.shields.io/github/repo-size/lhbelfanti/pyset?label=Repo%20size" alt="Repo size" />
+    <img src="https://img.shields.io/github/license/lhbelfanti/pyset?label=License" alt="License" />
+</p>
 
-  <br />
-
-  ![GitHub repo size](https://img.shields.io/github/repo-size/lhbelfanti/pyset?style=for-the-badge)
-  ![License](https://img.shields.io/github/license/lhbelfanti/pyset?style=for-the-badge)
-</div>
-
+---
 ## Language definitions
 
 ### Variables 
